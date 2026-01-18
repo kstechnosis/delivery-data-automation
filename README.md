@@ -115,26 +115,26 @@ PostgreSQL for improved scalability, concurrency, and data integrity.
 
 ## Project Structure
 
-delivery-data-automation/
-
+    delivery-data-automation/
+    |
     ├── data/
     │ ├── raw/
     │ │ └── deliveries*latest.csv
     │ └── archive/
     │ └── deliveries*<timestamp>.csv
-
+    |
     ├── etl/
     │ ├── load_raw_deliveries.py
     │ ├── transform_clean_deliveries.py
     │ ├── generate_daily_summary.py
     │ └── run_pipeline.py
-
+    |
     ├── db/
     │ ├── schema.sql
     │ ├── init_db.py
     │ └── deliveries.db
-
-└── README.md
+    |
+    └── README.md
 
 ---
 
