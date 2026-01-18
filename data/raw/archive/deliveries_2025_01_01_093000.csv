@@ -1,0 +1,9 @@
+delivery_id,order_id,partner_name,customer_city,delivery_date,delivery_time,distance_km,delivery_status,amount_charged,payment_status
+DLV1001,ORD5001,FastTrack Logistics,Mumbai,2025-01-01,09:30,12.5,Delivered,350,Paid
+DLV1002,ORD5002,QuickShip,Pune,2025-01-01,10:15,8.2,Delivered,280,Paid
+DLV1003,ORD5003,FastTrack Logistics,Nashik,2025-01-01,11:00,15.0,Failed,0,Unpaid
+DLV1004,ORD5004,SpeedX,Mumbai,2025-01-01,11:45,5.4,Delivered,200,Paid
+DLV1005,ORD5005,QuickShip,Pune,2025-01-01,12:30,6.1,Delivered,300,Paid
+DLV1006,ORD5006,FastTrack Logistics,Mumbai,2025-01-01,13:15,10.8,Delivered,320,Paid
+DLV1007,ORD5007,SpeedX,Nagpur,2025-01-01,14:10,20.5,Delivered,450,Paid
+DLV1008,ORD5008,QuickShip,Mumbai,2025-01-01,15:00,7.9,Cancelled,0,Unpaid
