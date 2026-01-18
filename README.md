@@ -216,15 +216,15 @@ The pipeline assumes this file is updated daily using the same filename.
 
 ### 10. Outcomes
 
-    Manual reporting effort reduced by ~80%
-    Centralized and reliable data storage
-    Automated, near real-time reporting
-    Audit-friendly historical data retention
-    Scalable design suitable for production systems
+ - Manual reporting effort reduced by ~80%
+ - Centralized and reliable data storage
+ - Automated, near real-time reporting
+ - Audit-friendly historical data retention
+ - Scalable design suitable for production systems
 
 ### 11. Future Improvements
 
-    Scheduling via cron or workflow orchestration
-    Dashboard integration (e.g., Superset)
-    Containerized deployment using Docker Compose
-    Cloud storage triggers (S3 / Blob / GCS)
+ - Scheduling via cron or workflow orchestration
+ - Dashboard integration (e.g., Superset)
+ - Containerized deployment using Docker Compose
+ - Cloud storage triggers (S3 / Blob / GCS)
